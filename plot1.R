@@ -12,6 +12,6 @@ aggr_data <- with(NEI, aggregate(Emissions, by = list(year), sum))
 
 # plot 1 file
 png("plot1.png")
-plot(aggre_data, type = "o", col="Red", ylab = expression("Emissions, PM"[2.5]), 
+plot(aggr_data, type = "o", col="Red", ylab = expression("Emissions, PM"[2.5]), 
      xlab = "Year", main = "Total Emissions in USA (.000)")
 dev.off()
