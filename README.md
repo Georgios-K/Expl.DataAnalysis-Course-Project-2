@@ -3,7 +3,7 @@
 The overall goal of this assignment is to explore the National Emissions Inventory database and see what it say about fine particulate matter pollution in the United states over the 10-year period 1999–2008. You may use any R package you want to support your analysis.
 
 # Important Note
-Use setwd before execution any R code, to set working directory. Files summarySCC_PM25.rds and Source_Classification_Code.rds should be in the working directory
+Use setwd before executing any R code, to set working directory. Files "summarySCC_PM25.rds" and "Source_Classification_Code.rds" should be in the working directory
 
 # Questions
 
